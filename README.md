@@ -10,9 +10,9 @@ My goal is to solve 1 Kata a day and see how far I'll go :)
 
 |    Programming Language  |    Kata Count  | 
 |:------------------------:|:--------------:|
-|            Ruby          |         1      | 
+|            Ruby          |         2      | 
 
 ---
-[CodeWars Profile](https://www.codewars.com/users/EllieChen-Git)
+My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
 
 
