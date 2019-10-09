@@ -1,18 +1,21 @@
 ## Challenge: A-Kata-A-Day
 ---
+:bulb: Project Started: 07 Oct 2019
 
-Just started doing CodeWars and will store all the katas I've tackled here.
+:love_letter: Just started doing CodeWars and will store all the katas I've tackled here.
 
-My goal is to solve 1 kata a day and see how far I'll go :)
+:pray: My goal is to solve 1 kata a day and see how far I'll go :laughing:
 
 ---
 ##### Programming languages used:
 
-|    Programming Language  |    Kata Count  | 
+|   :star: Programming Language :star: |    :fire: Kata Count :fire: | 
 |:------------------------:|:--------------:|
 |            Ruby          |         3      | 
 
+
+:whale: My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
+
 ---
-My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
-
-
+##### Resources:
+For the list of GitHub markdown emoji markup I used, refer here: https://gist.github.com/rxaviers/7360908
