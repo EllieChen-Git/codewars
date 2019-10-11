@@ -22,7 +22,7 @@
 |                6kyu              |          Persistent_Bugger      |                                  |
 |                7kyu              |   Number_of_People_in_the_Bus   |                                  |
 |                5kyu              |          Weight_for_Weight      |    Incomplete - passed test 2/3  |
-
+|                7kyu              |                  My_Languages   |                                  |
 
 :whale: My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
 
