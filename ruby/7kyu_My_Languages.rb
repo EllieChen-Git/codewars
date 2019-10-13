@@ -15,12 +15,12 @@ my_languages({"Java" => 10, "Ruby" => 80, "Python" => 65}) #["Ruby", "Python"]
 my_languages({"Hindi" => 60, "Dutch" => 93, "Greek" => 71}) #["Dutch", "Greek", "Hindi"]
 my_languages({"C++" => 50, "ASM" => 10, "Haskell" => 20}) #[]
 
-# Methods used in my answer:
-    # .delete_if: Deletes every element of self for which block evaluates to true.
-
 #Best practice in CodeWars:
     # def my_languages(results)
     #     results.keys.select {|k| results[k]>=60}.sort_by {|k| -results[k]}
     # end
-        # .sort_by: sort in ascending order. In order to sort in descending order, either use '.sort_by.reverse' or 'sort_by -results[k] (negative numbers)'
-        # .select: Returns a new hash consisting of entries for which the block returns true.
+
+# Methods used:
+    # .delete_if: Deletes every element of self for which block evaluates to true.
+    # .sort_by: sort in ascending order. In order to sort in descending order, either use '.sort_by.reverse' or 'sort_by -results[k] (negative numbers)'
+    # .select: Returns a new hash consisting of entries for which the block returns true.

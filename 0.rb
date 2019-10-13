@@ -1,4 +1,5 @@
-# Question:
+# Question (with link):
+
 
 # Example:
 
@@ -6,9 +7,11 @@
 # My answer:
 
 
-# Methods used in my answer:
-
-
-
 # Best practice in CodeWars:
+
+
+# Methods used:
+
+
+
 
