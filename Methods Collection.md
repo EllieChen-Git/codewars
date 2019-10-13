@@ -14,6 +14,18 @@
 - __each_char__: Passes each character in str to the given block, or returns an enumerator if no block is given.
 `"hello".each_char {|c| print c, ' ' } #=> h e l l o `
 
+- __partition [string -> array]__: Searches sep or pattern (regexp) in the string and returns the part before it, the match, and the part after it. If it is not found, returns two empty strings and str.
+*partition(sep) → [head, sep, tail]
+*partition(regexp) → [head, match, tail]
+```
+    [0, 1, 2].partition(&:odd?) #=>  [[1], [0, 2]]
+    [1, 2, 3].partition(&:odd?) #=> [[1, 3], [2]]
+```
+__find(&:one?)__: 
+```
+    [0, 1, 2].partition(&:odd?).find(&:one?) #=>  [1]
+    [1, 2, 3].partition(&:odd?).find(&:one?) #=>  [2]
+```
 
 ## Array
 
@@ -72,3 +84,7 @@
 ```
     (1..100).grep 38..44   #=> [38, 39, 40, 41, 42, 43, 44] 
  ```
+
+ ## Shorthand
+
+- integers.count {|x| x.even?} #=> integers.count(&:even?) 

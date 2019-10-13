@@ -11,7 +11,7 @@
 
 |    :star: Programming Language :star:        |  :fire: Kata Count :fire:  | 
 |:--------------------------------------------:|:--------------------------:|
-|                Ruby                          |             8              | 
+|                Ruby                          |             9              | 
 
 #### Kata List
 
@@ -25,7 +25,7 @@
 |     7kyu_My_Languages                        |                                  |
 |     7kyu_Mumbling                            |                                  |
 |     7kyu_List_Filtering                      |                                  |
-
+|     6kyu_Find_The_Parity_Outlier             |    very similar to 6kyu_IQ_Test  |
 
 :whale: My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
 
@@ -35,6 +35,7 @@
 GitHub markdown emojis list: https://gist.github.com/rxaviers/7360908
 
 Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ---
 #### Updates
 
