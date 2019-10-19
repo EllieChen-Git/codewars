@@ -8,11 +8,11 @@
 :whale: My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
 
 ---
-#### Stats
+#### Statistics
 
 |    :star: Programming Language :star:        |   :fire: Kata Count :fire:  | 
 |:--------------------------------------------:|:---------------------------:|
-|                Ruby                          |             10              | 
+|                Ruby                          |             11              | 
 
 #### Kata List
 
@@ -28,6 +28,7 @@
 |     7kyu_List_Filtering                      |                                  |
 |     6kyu_Find_The_Parity_Outlier             |    very similar to 6kyu_IQ_Test  |
 |     7kyu_Find_Fibonacci_Last_Digit           |                                  |
+|     7kyu_Shortest_Word                       |                                  |
 
 
 ---
@@ -38,7 +39,7 @@
 - Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ---
-#### Updates
+#### Status Updates
 
 - 12/10/2019: Added '0.rb' as the template file.
 

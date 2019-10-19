@@ -4,12 +4,14 @@
     
 - __digits [integer -> array]__: Returns the digits of integer's place-value representation with radix base (default: 10). The digits are returned as an array with the least significant digit as the first array element.
 
-- __How to find the last digit of a number__: number % 10
+- __how to find the last digit of a number__: number % 10
 
 ## String
    
 - __split [string -> array]__: Divides str into substrings based on a delimiter, returning an array of these substrings.
-    
+
+- __scan(/\w+/) [string -> array][regex]__: will achieve the same effect as .split.
+
 - __chars[string -> array]__: Returns an array of characters in str. This is a shorthand for str.each_char.to_a.
     
 - __each_char__: Passes each character in str to the given block, or returns an enumerator if no block is given.
@@ -19,13 +21,13 @@
 *partition(sep) → [head, sep, tail]
 *partition(regexp) → [head, match, tail]
 
-    [0, 1, 2].partition(&:odd?) #=>  [[1], [0, 2]]
-    [1, 2, 3].partition(&:odd?) #=> [[1, 3], [2]]
+        [0, 1, 2].partition(&:odd?) #=>  [[1], [0, 2]]
+        [1, 2, 3].partition(&:odd?) #=> [[1, 3], [2]]
 
 __find(&:one?)__: 
 
-    [0, 1, 2].partition(&:odd?).find(&:one?) #=>  [1]
-    [1, 2, 3].partition(&:odd?).find(&:one?) #=>  [2]
+        [0, 1, 2].partition(&:odd?).find(&:one?) #=>  [1]
+        [1, 2, 3].partition(&:odd?).find(&:one?) #=>  [2]
 
 
 ## Array
@@ -65,7 +67,9 @@ __find(&:one?)__:
 - __first__: Returns the first element, or the first n elements, of the array. 
     
 - __last__: Returns the last element(s) of self. 
-    
+
+- __min__: Returns the object in ary with the minimum value. 
+
 
 ## Hash
 
@@ -101,4 +105,4 @@ __find(&:one?)__:
 
 ## Shorthand
 
-- integers.count {|x| x.even?} #=> integers.count(&:even?) 
+- integers.count {|x| x.even?} == integers.count(&:even?) 
