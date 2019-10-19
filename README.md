@@ -10,9 +10,9 @@
 ---
 #### Statistics
 
-|    :star: Programming Language :star:        |   :fire: Kata Count :fire:  | 
-|:--------------------------------------------:|:---------------------------:|
-|                Ruby                          |             11              | 
+|    :star: Programming Language :star:        |     :fire: Kata Count :fire:     | 
+|:--------------------------------------------:|:--------------------------------:|
+|                Ruby                          |               12                 | 
 
 #### Kata List
 
@@ -29,7 +29,7 @@
 |     6kyu_Find_The_Parity_Outlier             |    very similar to 6kyu_IQ_Test  |
 |     7kyu_Find_Fibonacci_Last_Digit           |                                  |
 |     7kyu_Shortest_Word                       |                                  |
-
+|     7kyu_Sum_Times_Tables                    |                                  |
 
 ---
 #### Resources
@@ -39,7 +39,7 @@
 - Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ---
-#### Status Updates
+#### Updates
 
 - 12/10/2019: Added '0.rb' as the template file.
 
