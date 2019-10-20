@@ -96,11 +96,27 @@ __find(&:one?)__:
  
 - __How to create a Fibonacci sequence__ (1, 1, 2, 3, 5, 8, 13):
 
-        def fibonacci(index)
-        p arr = (2..index).inject([1]) { |x| x << x.last(2).sum}  # return the array of Fibonacci sequence
-                                                                        # .inject([1]: the sequence in this exercise start from 1
-                                                                        # (2..index): will push (index - 1) numbers to the arrays
+        def fibonacci(nth_num)
+                p arr = (2..nth_num).inject([1]) { |x| x << x.last(2).sum}  # return the array of Fibonacci sequence
+                        # .inject([1]: set the first element of array as '1'
+                        # (2..nth_num): we alreay have 1 elements in array, so next element starts from 2
+			# {|x| x << x.last(2).sum}: add the last 2 elements & push the value back to array
         end
+
+- __Same method also applies to a Tribonacci sequence__ [1, 1, 2, 4, 7]:
+
+Tribonacci will take the last 3 inputs (as oppose to 2), and add them together to get another value. 
+Create a method that will be given an array and an integer as it's argument. The array will hold the first 3 numbers of the tribonacci sequence, whilst the integer will be the nth number of the sequence we want to access.
+
+        def tribonacci(nums, nth_num)
+                p arr = (4..nth_num).inject(nums) {|x| x << x.last(3).sum }
+                        #.inject(nums): set the first 3 elements of array as nums
+                        # (4..nth_num): we alreay have 3 elements in array, so next element starts from 4
+                        # {|x| x << x.last(3).sum}: add the last 3 elements & push the value back to array
+        end
+
+        tribonacci([1,1,2], 5) # 7 
+        tribonacci([5,6,11], 9) #449
 
 
 ## Shorthand
