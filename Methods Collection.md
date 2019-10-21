@@ -6,6 +6,19 @@
 
 - __how to find the last digit of a number__: number % 10
 
+- __Integer.sqrt(x) [Integer -> Integer]__: Returns the integer square root of the non-negative integer x, i.e. the largest non-negative integer less than or equal to the square root of n.
+
+        Integer.sqrt(0)        #=> 0
+        Integer.sqrt(1)        #=> 1
+        Integer.sqrt(24)       #=> 4
+        Integer.sqrt(25)       #=> 5
+
+- __Math.sqrt(x) [Integer -> Float]__:Returns the non-negative square root of x. 
+If want to check if x is a square number:
+
+        Math.sqrt(x) % 1 == 0 (Ruby consider 0.0 == 0)
+
+
 ## String
    
 - __split [string -> array]__: Divides str into substrings based on a delimiter, returning an array of these substrings.
