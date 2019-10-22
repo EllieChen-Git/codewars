@@ -18,6 +18,14 @@ If want to check if x is a square number:
 
         Math.sqrt(x) % 1 == 0 (Ruby consider 0.0 == 0)
 
+- __.to_s(base=10)[integer -> string]__: Returns a string containing the place-value representation of int with radix base (between 2 and 36).
+        
+        12345.to_s       #=> "12345"
+        12345.to_s(2)    #=> "11000000111001"
+        12345.to_s(8)    #=> "30071"
+        12345.to_s(10)   #=> "12345"
+        12345.to_s(16)   #=> "3039"
+        12345.to_s(36)   #=> "9ix"
 
 ## String
    

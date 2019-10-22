@@ -12,7 +12,7 @@
 
 |    :star: Programming Language :star:        |     :fire: Kata Count :fire:     | 
 |:--------------------------------------------:|:--------------------------------:|
-|                Ruby                          |               14                 | 
+|                Ruby                          |               15                 | 
 
 #### Kata List
 
@@ -32,6 +32,7 @@
 |     7kyu_Sum_Times_Tables                    |                                  |
 |     6kyu_DNA_Sequence_Tester                 |    Incomplete - passed test 8/9  |
 |     7kyu_You're a square                     |                                  |
+|     7kyu_Binary_Addition                     |                                  |
 
 ---
 #### Resources
