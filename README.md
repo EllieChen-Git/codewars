@@ -13,7 +13,7 @@
 |    :star: Programming Language :star:        |     :fire: Kata Count :fire:     | 
 |:--------------------------------------------:|:--------------------------------:|
 |                Ruby                          |               16                 | 
-|                JavaScript                    |                2                 | 
+|                JavaScript                    |                3                 | 
 
 #### JavaScript Katas
 
@@ -21,6 +21,7 @@
 |:--------------------------------------------:|:--------------------------------:|
 |     8kyu_Counting_Sheep                      |                                  |
 |     8kyu_Sum_of_Positive                     |                                  |
+|     8kyu_Welcome                             |                                  |
 
 #### Ruby Katas
 
