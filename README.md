@@ -13,13 +13,14 @@
 |    :star: Programming Language :star:        |     :fire: Kata Count :fire:     | 
 |:--------------------------------------------:|:--------------------------------:|
 |                Ruby                          |               16                 | 
-|                JavaScript                    |                1                 | 
+|                JavaScript                    |                2                 | 
 
 #### JavaScript Katas
 
 |   :rocket: Level - Challenge :rocket:        |   :pencil2: Note :pencil2:       | 
 |:--------------------------------------------:|:--------------------------------:|
 |     8kyu_Counting_Sheep                      |                                  |
+|     8kyu_Sum_of_Positive                     |                                  |
 
 #### Ruby Katas
 
