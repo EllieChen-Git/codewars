@@ -1,14 +1,17 @@
 # Question (with link): https://www.codewars.com/kata/youre-a-square/train/ruby
-# A square of squares
-    # You like building blocks. You especially like building blocks that are squares. And what you even like more, is to arrange them into a square of square building blocks!
+    # Consider an array of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
 
-    # However, sometimes, you can't arrange them into a square. Instead, you end up with an ordinary rectangle! Those blasted things! If you just had a way to know, whether you're currently working in vain… Wait! That's it! You just have to check if your number of building blocks is a perfect square.
+    # For example,
 
-    # Given an integral number, determine if it's a square number:
+    # [true,  true,  true,  false,
+    # true,  true,  true,  true ,
+    # true,  false, true,  false,
+    # true,  false, false, true ,
+    # true,  true,  true,  true ,
+    # false, false, true,  true]
+    # The correct answer would be 17.
 
-    # In mathematics, a square number or perfect square is an integer that is the square of an integer; in other words, it is the product of some integer with itself.
-    
-    # The tests will always use some integral number, so don't worry about that in dynamic typed languages.
+    # Hint: Don't forget to check for bad values like null/undefined
 
 # My answer:
     def is_square(x)

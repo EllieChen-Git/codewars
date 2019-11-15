@@ -1,7 +1,7 @@
 # CodeWars
 
 ---
-:bulb: Project Started: 07 Oct 2019
+:bulb: Project Started: 07 Oct 2019 (Ruby), 15 Nov 2019 (JavaScript)
 
 :love_letter: Store all the katas I've tackled here.
 
@@ -12,9 +12,16 @@
 
 |    :star: Programming Language :star:        |     :fire: Kata Count :fire:     | 
 |:--------------------------------------------:|:--------------------------------:|
-|                Ruby                          |               15                 | 
+|                Ruby                          |               16                 | 
+|                JavaScript                    |                1                 | 
 
-#### Kata List
+#### JavaScript Katas
+
+|   :rocket: Level - Challenge :rocket:        |   :pencil2: Note :pencil2:       | 
+|:--------------------------------------------:|:--------------------------------:|
+|     8kyu_Counting_Sheep                      |                                  |
+
+#### Ruby Katas
 
 |   :rocket: Level - Challenge :rocket:        |   :pencil2: Note :pencil2:       | 
 |:--------------------------------------------:|:--------------------------------:|
@@ -33,7 +40,7 @@
 |     6kyu_DNA_Sequence_Tester                 |    Incomplete - passed test 8/9  |
 |     7kyu_You're a square                     |                                  |
 |     7kyu_Binary_Addition                     |                                  |
-
+|     7kyu_Palindrome_Chain_Length             |    Incomplete                    |
 ---
 #### Resources
 
@@ -44,6 +51,7 @@
 ---
 #### Updates
 
-- 12/10/2019: Added '0.rb' as the template file.
-
-- 13/10/2019: Added 'Methods Collection' to store all the methods I used/studied for the katas.
+- __0.rb__: Ruby template file.
+- __ruby_methods_collection.md__: Stored all the JavaScript functions/methods I used.
+- __0.js__: JavaScript template file.
+- __javascript_methods_collection.md__: Stored all the JavaScript functions/methods I used.
