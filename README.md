@@ -3,7 +3,7 @@
 ---
 :bulb: Project Started: 07 Oct 2019 (Ruby), 15 Nov 2019 (JavaScript)
 
-:love_letter: Store all the katas I've tackled here.
+:love_letter: Stored all the katas I've tackled here.
 
 :whale: My CodeWars Profile: https://www.codewars.com/users/EllieChen-Git
 
@@ -13,7 +13,7 @@
 |    :star: Programming Language :star:        |     :fire: Kata Count :fire:     | 
 |:--------------------------------------------:|:--------------------------------:|
 |                Ruby                          |               16                 | 
-|                JavaScript                    |                3                 | 
+|                JavaScript                    |                4                 | 
 
 #### JavaScript Katas
 
@@ -22,6 +22,8 @@
 |     8kyu_Counting_Sheep                      |                                  |
 |     8kyu_Sum_of_Positive                     |                                  |
 |     8kyu_Welcome                             |                                  |
+|     7kyu_Descending_Order                    |                                  |
+
 
 #### Ruby Katas
 
@@ -51,7 +53,7 @@
 - Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ---
-#### Updates
+#### File Structure
 
 - __0.rb__: Ruby template file.
 - __ruby_methods_collection.md__: Stored all the JavaScript functions/methods I used.
