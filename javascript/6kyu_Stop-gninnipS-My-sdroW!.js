@@ -46,6 +46,8 @@ function spinWords(words) {
 
 function spinWords(string) {
   return string.replace(/\w{5,}/g, function(w) {
+    //: \w means ANY ONE word character. For ASCII, word characters are [a-zA-Z0-9_]
+    // {5,}: means 5 or more
     return w
       .split("")
       .reverse()
