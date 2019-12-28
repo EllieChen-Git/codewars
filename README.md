@@ -15,7 +15,7 @@
 | :star: Programming Language :star: | :fire: Kata Count :fire: |
 | :--------------------------------: | :----------------------: |
 |                Ruby                |            16            |
-|             JavaScript             |            8             |
+|             JavaScript             |            9             |
 
 #### JavaScript Katas
 
@@ -29,6 +29,8 @@
 |    6kyu_Stop-gninnipS-My-sdroW!     |                          |
 |      6kyu_Your-Order-Please.js      |                          |
 |        6kyu_Bit-Counting.js         |                          |
+|        6kyu_Unique-In-Order         |                          |
+|                                     |                          |
 |                                     |                          |
 |                                     |                          |
 
