@@ -15,7 +15,7 @@
 | :star: Programming Language :star: | :fire: Kata Count :fire: |
 | :--------------------------------: | :----------------------: |
 |                Ruby                |            16            |
-|             JavaScript             |            9             |
+|             JavaScript             |            10            |
 
 #### JavaScript Katas
 
@@ -30,6 +30,8 @@
 |      6kyu_Your-Order-Please.js      |                          |
 |        6kyu_Bit-Counting.js         |                          |
 |        6kyu_Unique-In-Order         |                          |
+|    6kyu_Find-the-Missing-Letter     |                          |
+|                                     |                          |
 |                                     |                          |
 |                                     |                          |
 |                                     |                          |
