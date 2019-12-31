@@ -15,7 +15,7 @@
 | :star: Programming Language :star: | :fire: Kata Count :fire: |
 | :--------------------------------: | :----------------------: |
 |                Ruby                |            16            |
-|             JavaScript             |            11            |
+|             JavaScript             |            12            |
 
 #### JavaScript Katas
 
@@ -31,31 +31,33 @@
 |        6kyu_Bit-Counting.js         |                          |
 |        6kyu_Unique-In-Order         |                          |
 |    6kyu_Find-the-Missing-Letter     |                          |
-|          6kyu_Valid-Braces          |        Incomplete        |
+|          6kyu_Valid-Braces          |       Unsuccessful       |
+|    6kyu_Format-A-String-of-Names    |       Unsuccessful       |
+|                                     |                          |
 |                                     |                          |
 |                                     |                          |
 |                                     |                          |
 
 #### Ruby Katas
 
-| :rocket: Level - Challenge :rocket: |   :pencil2: Note :pencil2:   |
-| :---------------------------------: | :--------------------------: |
-|      6kyu_Create_Phone_Number       |                              |
-|            6kyu_IQ_Test             |                              |
-|       6kyu_Persistent_Bugger        |                              |
-|  7kyu_Number_of_People_in_the_Bus   |                              |
-|       5kyu_Weight_for_Weight        | Incomplete - passed test 2/3 |
-|          7kyu_My_Languages          |                              |
-|            7kyu_Mumbling            |                              |
-|         7kyu_List_Filtering         |                              |
-|    6kyu_Find_The_Parity_Outlier     | very similar to 6kyu_IQ_Test |
-|   7kyu_Find_Fibonacci_Last_Digit    |                              |
-|         7kyu_Shortest_Word          |                              |
-|        7kyu_Sum_Times_Tables        |                              |
-|      6kyu_DNA_Sequence_Tester       | Incomplete - passed test 8/9 |
-|        7kyu_You're a square         |                              |
-|        7kyu_Binary_Addition         |                              |
-|    7kyu_Palindrome_Chain_Length     |          Incomplete          |
+| :rocket: Level - Challenge :rocket: |    :pencil2: Note :pencil2:    |
+| :---------------------------------: | :----------------------------: |
+|      6kyu_Create_Phone_Number       |                                |
+|            6kyu_IQ_Test             |                                |
+|       6kyu_Persistent_Bugger        |                                |
+|  7kyu_Number_of_People_in_the_Bus   |                                |
+|       5kyu_Weight_for_Weight        | Unsuccessful - passed test 2/3 |
+|          7kyu_My_Languages          |                                |
+|            7kyu_Mumbling            |                                |
+|         7kyu_List_Filtering         |                                |
+|    6kyu_Find_The_Parity_Outlier     |  very similar to 6kyu_IQ_Test  |
+|   7kyu_Find_Fibonacci_Last_Digit    |                                |
+|         7kyu_Shortest_Word          |                                |
+|        7kyu_Sum_Times_Tables        |                                |
+|      6kyu_DNA_Sequence_Tester       | Unsuccessful - passed test 8/9 |
+|        7kyu_You're a square         |                                |
+|        7kyu_Binary_Addition         |                                |
+|    7kyu_Palindrome_Chain_Length     |          Unsuccessful          |
 
 ---
 
