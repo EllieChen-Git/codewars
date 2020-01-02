@@ -15,7 +15,7 @@
 | :star: Programming Language :star: | :fire: Kata Count :fire: |
 | :--------------------------------: | :----------------------: |
 |                Ruby                |            16            |
-|             JavaScript             |            13            |
+|             JavaScript             |            14            |
 
 #### JavaScript Katas
 
@@ -34,6 +34,8 @@
 |          6kyu_Valid-Braces          |           Incomplete            |
 |    6kyu_Format-A-String-of-Names    |           Incomplete            |
 |    6kyu_Equal-Sides-Of-An-Array     | Incomplete - passed tests 55/61 |
+|  6kyu_Convert-String-to-Camel-Case  |                                 |
+|                                     |                                 |
 |                                     |                                 |
 |                                     |                                 |
 |                                     |                                 |
